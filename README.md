@@ -7,4 +7,6 @@ exemplo de uso:
 
 
 drawImageFlippedH(BG_A, &bga_image, TILE_USER_INDEX, 0, 0, PAL2, 0); //baixa prioridade
+
+
 drawImageFlippedH(BG_A, &bga_image, TILE_USER_INDEX, 0, 0, PAL2, 1); //alta prioridade
